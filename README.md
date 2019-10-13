@@ -28,7 +28,7 @@ go get -u -t gonum.org/v1/gonum/...
 W folderze %GOPATH%/src/pfilochowski uruchomić w cmd:
 
 ```
-go get -u -t gonum.org/v1/gonum/...
+go run ./min1.go
 ```
 
 Oczekiwany rezultat:
